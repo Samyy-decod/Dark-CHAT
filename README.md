@@ -1,15 +1,13 @@
 # Dark-CHAT<p align="center">
-  <a href="#">
-![Screenshot (6)](https://github.com/user-attachments/assets/6dbf9bc9-3d8f-40fa-ab17-789118911d36)
 
-  </a>
+![Screenshot (6)](https://github.com/user-attachments/assets/385fa114-6aa0-4856-91bf-89fa6c401a32)
 
-  <h1 align="center">E-Commerce</h1>
+  <h1 align="center">DARK CHAT 😈</h1>
 
   <p align="center">
-    An open-source eCommerce platform giving you full control and customizability.
+   DARK CHAT is an open-source chat platform designed for chat multiple unknown users to use  Dark chat 
     <br />
-    Build any eCommerce solution that your business requires.
+ Connect, chat, and customize — DARK CHAT gives you full control!  hide yur privacy
     <br />
     <br />
     <a href="#">Documentation</a>
@@ -23,9 +21,11 @@
 
 ## 🚀 About Me
 I'm a full stack developer...<br/>
-I am **Sameer Khan**, a Software Engineer with a passion for developing robust applications. My goal is to create intuitive and efficient solutions for e-commerce challenges.
+I'm Sameer Khan, a passionate full-stack developer and Software Engineer focused on creating robust applications. With a specialization in e-commerce and chat applications, I strive to develop intuitive, scalable solutions.
 
-## Contact
+
+
+## 📞 Contact
 - <a href="https://codingyari.com">My Portfolio</a>
 - <a href="https://www.instagram.com/mr.samyy_99">Instagram</a>
 
@@ -46,48 +46,46 @@ I am **Sameer Khan**, a Software Engineer with a passion for developing robust a
 
 
 ## Documentation
-
-![logo-1-color](https://github.com/user-attachments/assets/fcc59760-5b16-4219-87ea-a2b75bdd1b7a)
-
-
+  <h4>DARK CHAT is designed for seamless and private conversations, <br/>allowing multiple users to connect and chat without any barriers.</h4>
+  
 ## Project Overview
 
-I developed an e-commerce platform using **Redux**, **Node.js**, and **React** with several features including:
+DARK CHAT is built using React, Node.js, and sokit.io featuring:
 
-- Dynamic user orders and product management
-- Admin panel for product reviews, creation, and updates
-- Order status updates with product quantity management
-- Payment integration for secure transactions
+- A responsive, dark-themed UI for smooth and immersive chatting.
+- No login or registration required – simply enter your name and start chatting instantly.
+- Real-time messaging with multiple users in the same chat room, allowing open and easy conversations.
+- Anonymity ensured as your chat history isn’t saved; chat freely without leaving a trace.
+- Flexible chat rooms and customizable user profiles for a more personalized experience.
 
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Client:** React, 
 
-**Server:** Node, Express
+**Server:** Node, sokit.io
 
 
 
 ### Key Features
-- **User Interface:** Clean and user-friendly interface for both admin and users.
-- **Dynamic Product Management:** Add, update, and manage products effortlessly.
-- **Order Management:** Track user orders and update statuses.
-- **Product Reviews:** Users can leave reviews on products, enhancing credibility.
+- ** Dark Mode UI:**Sleek, modern dark-themed design.
+- **Real-Time Messaging:** Instant communication with secure connections.
+- **Privacy-Focused:** No chat history is saved, so conversations remain private and disappear once you leave.
+- **No Login or Registration Required:** No need for email, phone number, or passwords. Simply enter a name to join and start chatting instantly.
+- **Anonymous Chatting:** Chat without revealing personal information, ensuring privacy for all users.
+
 
 ## Screenshots
 
-![project-15](https://github.com/user-attachments/assets/befa0371-9851-46e0-931d-70966b97e53f)
-
-![Screenshot_20240928_142421](https://github.com/user-attachments/assets/049914e0-1fc5-4d59-b155-cd0991f9a37d)
+![Screenshot (7)](https://github.com/user-attachments/assets/11b1d849-8cfa-4e7a-a375-9ebd7eb98c23)
 
 
-![Screenshot 2024-10-29 221131](https://github.com/user-attachments/assets/08cd938c-c47f-4c9e-b8d3-70b215b229dd)
-
+![Screenshot (8)](https://github.com/user-attachments/assets/e0fe5f5e-8f0c-41fd-9e98-fce69eb5987c)
 
 
 ## Community & Support
 
-Join our community to learn more about Spree and contribute:
+Become part of the DARK CHAT community:
 - [Join Slack](https://slack.spreecommerce.org)
 - [Documentation](https://docs.spreecommerce.org)
 
@@ -114,4 +112,5 @@ Join our community to learn more about Spree and contribute:
 
 ## License
 
-Spree Commerce is a free, open-source eCommerce framework. Check the [license](LICENSE.md) for more details.
+DARK CHAT is a free, open-source chat framework. See the LICENSE.md for more details.
+
