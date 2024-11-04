@@ -1,7 +1,6 @@
 # Dark-CHAT<p align="center">
   <a href="#">
-
-![cover2](https://github.com/user-attachments/assets/7728220a-0ee1-4c09-b995-0ffeac4f66a5)
+![Screenshot (6)](https://github.com/user-attachments/assets/6dbf9bc9-3d8f-40fa-ab17-789118911d36)
 
   </a>
 
